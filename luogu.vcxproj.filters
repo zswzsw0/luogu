@@ -60,5 +60,23 @@
     <ClCompile Include="P1554_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P1614.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P2911.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1161_NO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5731_00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5732.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1789.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
