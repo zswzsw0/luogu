@@ -78,5 +78,17 @@
     <ClCompile Include="P1789.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P1319.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5733.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1914_RE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1914_AC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
